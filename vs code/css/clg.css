@@ -108,14 +108,14 @@ div form {
 div label{
     font-size: 22px;
     margin-bottom: 5px;
-    color: yellow;
+    color: rgb(36, 160, 160);
     font-style: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 div form #submit{
     text-align: center;
-    background-color: gold;
+    background-color: rgb(121, 25, 121);
     height: 30px;
     margin-left: 10px;
     font-size: 20px;
@@ -147,7 +147,7 @@ width: 600px;
 div .notes p{
     text-align: center;
     margin: 5px;
-    color: yellow;
+    color: rgb(164, 199, 38);
     font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -156,17 +156,17 @@ div .clgname{
 }
 div .clgname h2{
     padding: 20px;
-    font-size: 50px;
-    color: yellow;
+    font-size: 100px;
+    color: rgb(30, 197, 147);
     margin-left: -10px;
     font-family: 'Courier New', Courier, monospace;
 }
 div .clgname h3{
     padding: 20px;
     margin-top: -40px;
-    font-size: 50px;
+    font-size: 70px;
     margin-left: -10px;
-    color: yellow;
+    color: rgb(30, 197, 147);;
     font-family: 'Courier New', Courier, monospace;
 }
 div .aboutus{
